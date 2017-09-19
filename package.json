@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "nodejs下使用ejsExcel读取xlxs文件的demo\r ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lss5270/ejsExcelDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lss5270/ejsExcelDemo/issues"
+  },
+  "homepage": "https://github.com/lss5270/ejsExcelDemo#readme",
+  "dependencies": {
+    "ejsexcel": "^3.4.9"
+  }
+}
